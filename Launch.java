@@ -1,5 +1,5 @@
 class Launch{
      void m1(){
-        //demo code
+        System.out.println("hello java lovers");
      }
 }
